@@ -1,9 +1,11 @@
 **First Chat Checker**
 
+Streamer.Bot Bot Checker With Full Bot List, There Are Over 1,000 Bots Listed In The File And This Streamer.Bot Actions Will Block Any Bots On The List From Triggering Any Of Your Alerts
+
+
+
 
 [Streamer.Bot Download](https://streamer.bot/)
-
-
 
 <ins>Install</ins>
 1) Copy The Streamer.Bot Import String
