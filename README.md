@@ -1,6 +1,6 @@
 **First Chat Checker**
 
-Streamer.Bot Bot Checker With Full Bot List, There Are Over 1,000 Bots Listed In The File And This Streamer.Bot Actions Will Block Any Bots On The List From Triggering Any Of Your Alerts
+This will check if the new chat message or alerts are from a new first time chat, if the person is not they will get added to a First_Chat list so next time they trigger the action it will check the file for that user and won't trigger any actions in streamer.bot
 
 
 
